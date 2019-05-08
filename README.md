@@ -1,12 +1,13 @@
 #AboutMe
 Viviana Navarro
-vivinava
+Soy una mezcla enérgica de habilidades técnicas, fundamentos del Diseño y la comunicación.
+
+
 Web desingner 
 Front-end Developer
 UI/UX
 E-Commerce
 "La única constante es el cambio" Heráclito.
-Soy de alma y corazón defeño, una mezcla enérgica de habilidades técnicas, fundamentos del Diseño y comunicación.
 
 # Skills 
 HTML5

@@ -1,53 +1,49 @@
 body {
+    background: #1D4350;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #A43931, #1D4350);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #A43931, #1D4350); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     
-    background: #83a4d4;
-    /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #b6fbff, #83a4d4);
-    /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #b6fbff, #83a4d4);
-    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
 
 .wrapper {
 
-    margin: 55px 140px;
-    display: grid;
-    grid-gap: 0px;
-    grid-template-columns: 500px 550px;
-    grid-template-rows: 550px;
+    margin: 55px 0px;
+
 }
 
 .photo {
-    text-align: right;
+    text-align: center;
+    border-radius: 100px;
 }
 
 .info {
-   
-    color: white;
-    
-background-color: #1F2E46;
+color: white;
+text-align: center;
+
 }
 
 h1{
-    margin: 40px 10px;
-    font-family: 'Roboto', sans-serif;
-    font-size: 65px;
-    text-align: left;
-    margin: 60px 50px;
+    margin: 0px 10px;
+    font-family: 'Karla', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    margin: 5px 5px;
 }
 p{
-font-family: Arial, Helvetica, sans-serif;
-font-size: 20px;
-text-align: left;
-margin: 20px 50px;
-line-height: 33px;
+    font-family: 'Muli', sans-serif;
+    font-size: 16px;
+text-align: center;
+margin: 5px 5px;
+line-height: 23px;
 }
 
 footer{
     text-align: center;
+    margin: 20px;
 }
 img{
-    padding: 4px;
+    
+  border-radius: 100px;
 }
 
