@@ -1,43 +1,20 @@
-
-
-.wrapper {
-
-    margin: 55px 0px;
-
-}
-
-.photo {
+body{
+    font-family: 'Muli';
     text-align: center;
-    border-radius: 100px;
 }
 
-.info {
-color: white;
-text-align: center;
-
-}
-
-h1{
-    margin: 0px 10px;
-    font-family: 'Karla', sans-serif;
-    font-size: 40px;
-    text-align: center;
-    margin: 5px 5px;
-}
 p{
-    font-family: 'Muli', sans-serif;
-    font-size: 16px;
-text-align: center;
-margin: 5px 5px;
-line-height: 23px;
+    font-size: 14px;
+    
 }
 
 footer{
-    text-align: center;
+ 
     margin: 20px;
 }
-img{
-    
-  border-radius: 100px;
-}
-
+@media only screen and (max-width: 600px) {
+    .fondo{
+        height: 100px;
+    }
+  }
+  
