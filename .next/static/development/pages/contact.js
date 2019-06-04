@@ -10833,7 +10833,7 @@ var Contact = function Contact() {
 
 /***/ }),
 
-/***/ 4:
+/***/ 1:
 /*!*****************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Fcontact&absolutePagePath=C%3A%5CUsers%5CViviana%5CDesktop%5CBOOTCAMP%5CPortafolio%5Cpages%5Ccontact.js ***!
   \*****************************************************************************************************************************************************/
@@ -10856,5 +10856,5 @@ module.exports = dll_6dc2816e14fab51b8269;
 
 /***/ })
 
-},[[4,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=contact.js.map
