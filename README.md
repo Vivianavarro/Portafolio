@@ -1,52 +1,40 @@
-#AboutMe
-Viviana Navarro
-Soy una mezcla enérgica de habilidades técnicas, fundamentos del Diseño y la comunicación.
+# Acerca de mí
+
+**Viviana Navarro**
+
+Hola, me gusta describirme como una mezcla enérgica de habilidades de **comunicación, diseño** y enamorada del **desarrollo web.** 
+
+- Diseño Web 
+- Desarrolladora Frontend
+- Interfaz del Usuario
+
+# Herramientas 
+- HTML5
+- CSS3
+- JavaScript
+- Boostrap
+- Firebase
+- Node js
+- Git
+- GitHub
+- Marvel
+- Figma
+- Illustrator
+- Photoshop
 
 
-Web desingner 
-Front-end Developer
-UI/UX
-E-Commerce
-"La única constante es el cambio" Heráclito.
+# Portafolio
+- **GeekIt** : Una red social enfocada a crear comunidad entre desarrolladores. [VER](https://ameyallibg.github.io/CDMX007-social-network/src/)
 
-# Skills 
-HTML5
-CSS3
-JavaScript
-Boostrap
-Firebase
-Node js
-Git
-GitHub
-Materialize
-Marvel
-Illustrator
-Photoshop
-Premiere
+- **Nenemi** : Prototipo de aplicación que busca las rutas más parecidas a la de la ususaria para caminar juntas (estructurada para CU).
 
-# Portfolio
-GeekIt
-Nenemi
-DataLovers
-Obice
+- **Femeduca** : Herramienta de visualización de Información estadística sobre las mujeres en el ámbito educativo de México, Perú, Chile y                Brasil -Información tomada del Banco Mundial. [VER](https://abygail27.github.io/cdmx-2019-01-bc-core-data-lovers/src/)
 
-.Work Desing.logotypes.
-mexicanum 
-norte café
-kilate
-quinto
+- **Obice** : Herramienta para que las pequeñas y medianas empresas tengan un filtro de seguridad al guardar información de sus clientes, usuarios o de su mismo personal. [VER](https://vivianavarro.github.io/cdmx-2019-01-bc-core-am-cipher/src/)
 
+# Contacto
 
-# Contact
-Trabajemos junt@s, ¿Qué tienes en mente?
-nitoname@gmail.com
-@Vivianavarro FB, TW, Linkedin
-GitPage Vivianavarro
-
-##Pages
--About
--Skills
--Portfolio
--Conctact
-
+- 📧 nitoname@gmail.com
+- 🐦 [@nitoname](https://twitter.com/nitoname)
+- 👩‍💻 [Viviana Navarro](https://www.linkedin.com/in/vivianavarronavarro/)
 

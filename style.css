@@ -1,20 +1,3 @@
-body{
-    font-family: 'Muli';
-    text-align: center;
+*{
+  align-content: center;
 }
-
-p{
-    font-size: 14px;
-    
-}
-
-footer{
- 
-    margin: 20px;
-}
-@media only screen and (max-width: 600px) {
-    .fondo{
-        height: 100px;
-    }
-  }
-  
