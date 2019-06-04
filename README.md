@@ -1,25 +1,26 @@
 # AboutMe
-Viviana Navarro
-Hola, me gusta describirme como una mezcla enérgica de habilidades de comunicación, diseño y enamorada del desarrollo web. 
 
+**Viviana Navarro**
+
+Hola, me gusta describirme como una mezcla enérgica de habilidades de **comunicación, diseño** y enamorada del **desarrollo web.** 
 
 - Web desingner 
 - Front-end Developer
 - UI/UX
 
 # Skills 
--HTML5
--CSS3
--JavaScript
--Boostrap
--Firebase
--Node js
--Git
--GitHub
--Marvel
--Figma
--Illustrator
--Photoshop
+- HTML5
+- CSS3
+- JavaScript
+- Boostrap
+- Firebase
+- Node js
+- Git
+- GitHub
+- Marvel
+- Figma
+- Illustrator
+- Photoshop
 
 
 # Portfolio
@@ -30,8 +31,7 @@ Hola, me gusta describirme como una mezcla enérgica de habilidades de comunicac
 
 # Contacto
 
-📧 nitoname@gmail.com
-🐦 @nitoname
-👩‍💻 Viviana Navarro [https://www.linkedin.com/in/vivianavarronavarro/]
-
+- 📧 nitoname@gmail.com
+- 🐦 [@nitoname](https://twitter.com/nitoname)
+- 👩‍💻 [Viviana Navarro](https://www.linkedin.com/in/vivianavarronavarro/)
 
