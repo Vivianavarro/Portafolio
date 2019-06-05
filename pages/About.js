@@ -22,7 +22,7 @@ soluciones plasmadas en <br></br>
 <img src="https://i.ibb.co/TB1QHgh/about-portafolio.png"/>
 
 <div className="item2">
-<p className="pcita"><strong>"Lo único constante, es el cambio."</strong><br></br>
+<p className="pcita"><strong>"Lo único constante,<br></br> es el cambio."</strong><br></br>
 <strong className="cita">Heráclito.</strong></p>
 </div>
 
@@ -42,7 +42,7 @@ soluciones plasmadas en <br></br>
     .pcita{
       text-align: right;
       padding: 5% 5% 0% 5%;
-      font-size:11px;
+      font-size:13px;
     }
 
       div{

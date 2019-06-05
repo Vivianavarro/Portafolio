@@ -6,7 +6,7 @@ const Index = () => (
 
 <NavBars />
 <div>
-  <img className="bodyy" src="http://drive.google.com/uc?export=view&id=1lV98EMUufdPAUWD1wLY8tmPxm_delAnC"/>
+  <img className="bodyy" src="http://drive.google.com/uc?export=view&id=1ghRKNZzlTJslwAGwe29cRBBoX93ar2NQ"/>
 </div>
 
 
@@ -19,7 +19,7 @@ const Index = () => (
        
         
         .bodyy{
-            height: 500px;
+            height: 450px;
             position: absolute;
             top: 13%;
             left: 25%;
@@ -39,12 +39,12 @@ const Index = () => (
         
         @media (max-width: 500px){
         .bodyy{
-          height: 280px;
+          height: 260px;
           position: absolute;
-          left: -2px;
+          left: 17px;
           bottom: 0;
           top: 142px;
-
+         
         }
           .icons{
             height: 37px;           

@@ -1,45 +1,35 @@
 {
-  "devFiles": [],
+  "devFiles": [
+    "static/development/dll/dll_599a58a60c43245180de.js"
+  ],
   "pages": {
     "/": [
-      "static/runtime/webpack-a79426b5e11f0ba5879d.js",
-      "static/chunks/commons.bea3c4fd192b1c418802.js",
-      "static/runtime/main-3daabeb1dde7624c7fe0.js"
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ],
     "/About": [
-      "static/runtime/webpack-a79426b5e11f0ba5879d.js",
-      "static/chunks/commons.bea3c4fd192b1c418802.js",
-      "static/runtime/main-3daabeb1dde7624c7fe0.js"
-    ],
-    "/Contact": [
-      "static/runtime/webpack-a79426b5e11f0ba5879d.js",
-      "static/chunks/commons.bea3c4fd192b1c418802.js",
-      "static/runtime/main-3daabeb1dde7624c7fe0.js"
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ],
     "/Work": [
-      "static/runtime/webpack-a79426b5e11f0ba5879d.js",
-      "static/chunks/commons.bea3c4fd192b1c418802.js",
-      "static/runtime/main-3daabeb1dde7624c7fe0.js"
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ],
     "/_app": [
-      "static/runtime/webpack-a79426b5e11f0ba5879d.js",
-      "static/chunks/commons.bea3c4fd192b1c418802.js",
-      "static/runtime/main-3daabeb1dde7624c7fe0.js"
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ],
     "/_error": [
-      "static/runtime/webpack-a79426b5e11f0ba5879d.js",
-      "static/chunks/commons.bea3c4fd192b1c418802.js",
-      "static/runtime/main-3daabeb1dde7624c7fe0.js"
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ],
-    "/components/NavBars": [
-      "static/runtime/webpack-a79426b5e11f0ba5879d.js",
-      "static/chunks/commons.bea3c4fd192b1c418802.js",
-      "static/runtime/main-3daabeb1dde7624c7fe0.js"
+    "/contact": [
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ],
     "/index": [
-      "static/runtime/webpack-a79426b5e11f0ba5879d.js",
-      "static/chunks/commons.bea3c4fd192b1c418802.js",
-      "static/runtime/main-3daabeb1dde7624c7fe0.js"
+      "static/runtime/webpack.js",
+      "static/runtime/main.js"
     ]
   }
 }
