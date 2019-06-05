@@ -17,7 +17,7 @@ const NavBars = () => (
        </div>
 
      <div>
-     <Link href="/contact"><strong><a>CONTACT</a></strong></Link> 
+     <Link href="/Contact"><strong><a>CONTACT</a></strong></Link> 
      </div>
 
      <style jsx>{`
