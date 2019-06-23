@@ -9,11 +9,11 @@ const Work = () => (
 
 
 
-<a href="https://vivianavarro.github.io/cdmx-2019-01-bc-core-am-cipher/src/" target="_blank"><img className="obice" src="http://drive.google.com/uc?export=view&id=1kakP9pIs6I-vnSLo3CvGW5a4P5y26HmO"/></a>
+<a href="https://github.com/Vivianavarro/cdmx-2019-01-bc-core-am-cipher" target="_blank"><img className="obice" src="http://drive.google.com/uc?export=view&id=1kakP9pIs6I-vnSLo3CvGW5a4P5y26HmO"/></a>
 <h3>Óbice</h3>
-<a href="http://bit.ly/GeekiT" target="_blank"><img className="geekit" src="http://drive.google.com/uc?export=view&id=1WxQhGQ6f9AQDvuBrnVKQIlJPX5fdFczS"/></a>
+<a href="https://github.com/Vivianavarro/CDMX007-social-network" target="_blank"><img className="geekit" src="http://drive.google.com/uc?export=view&id=1WxQhGQ6f9AQDvuBrnVKQIlJPX5fdFczS"/></a>
 <h3>Geek it!</h3>
-<a href="https://bqcomanda-39f10.firebaseapp.com/" target="_blank"><img className="burger" src="http://drive.google.com/uc?export=view&id=1ncy_BsUVpjnskADXrOKtz0Rh_ZMRCmRu"/></a>
+<a href="https://github.com/Vivianavarro/CDMX007-fe-burger-queen" target="_blank"><img className="burger" src="http://drive.google.com/uc?export=view&id=1ncy_BsUVpjnskADXrOKtz0Rh_ZMRCmRu"/></a>
 <h3>Burger Queen</h3>
 <a href="http://bit.ly/2Z8mhP0" target="_blank"><img className="nenemi" src="http://drive.google.com/uc?export=view&id=1fo8AkvcsMbZ6C0-RizayLPl6ZQLKy9Zh"/></a>
 <h3>Nenemi</h3>
